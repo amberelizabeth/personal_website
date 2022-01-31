@@ -15,9 +15,9 @@
 }
 
 #about-me p{
-    color: light-green;
+    color: green;
     font-weight: bold;
-    font-family: san serif;
+    font-family: sans-serif;
     font-style: italic;
     border-style: dashed;
 }
